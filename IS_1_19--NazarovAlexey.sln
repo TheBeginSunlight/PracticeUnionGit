@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IS-1-19-NazarovAV", "PracticeUnionGit\IS-1-19-NazarovAV.csproj", "{BF2D5BBE-E16F-4EC7-A4EB-00996853C949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectDB", "ConnectDB\ConnectDB.csproj", "{913AD94F-B3C4-4101-A52C-27E48C1C211C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2D5BBE-E16F-4EC7-A4EB-00996853C949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2D5BBE-E16F-4EC7-A4EB-00996853C949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2D5BBE-E16F-4EC7-A4EB-00996853C949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2D5BBE-E16F-4EC7-A4EB-00996853C949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913AD94F-B3C4-4101-A52C-27E48C1C211C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913AD94F-B3C4-4101-A52C-27E48C1C211C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913AD94F-B3C4-4101-A52C-27E48C1C211C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913AD94F-B3C4-4101-A52C-27E48C1C211C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DAADF2D-8A7A-4146-A13A-FC24C6217F75}
+	EndGlobalSection
+EndGlobal
